@@ -1,3 +1,3 @@
-#cd 'yourdirectory'
-#cd my-react-app
-#npm start
+##cd 'yourdirectory'
+##cd my-react-app
+##npm start
